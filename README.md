@@ -2,7 +2,7 @@
 
 | Importante |
 | --- |
-| Debido al fin de la Alerta Sanitaria por COVID-19, **este repositorio entregará actualizaciones diarias hasta el día jueves 31 de agosto de 2023**. Estamos trabajando junto al Ministerio de Salud en adecuar este producto a un nuevo sistema de reportería de datos. |
+| Debido al fin de la Alerta Sanitaria por COVID-19, **este repositorio contiene actualizaciones diarias hasta el día jueves 31 de agosto de 2023**. La información actualizada es publicada en el [sitio web del Gobierno de Chile](https://www.gob.cl/pasoapaso/cifrasoficiales/), y es preparada semanalmente por el [Departamento de Estadísticas e Información de Salud (DEIS)](http://deis.minsal.cl/) del Ministerio de Salud. |
 
 El objetivo de la Mesa de Datos COVID-19 liderada por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación es disponer de información de nuestro país durante la pandemia para promover el uso de datos para investigación científica, clínica y para soluciones innovadoras que contribuyan a la toma de decisiones de las autoridades y la ciudadanía frente a esta pandemia. Se disponen los datos epidemiológicos provenientes del Ministerio de Salud (MINSAL) y datos de otras fuentes, documentados y abiertos para el análisis de la comunidad, en concordancia con la [Ley Nº 19.628](https://www.leychile.cl/Navegar?idNorma=141599). 
 
